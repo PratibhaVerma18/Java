@@ -1,3 +1,6 @@
+//WAP AllPrimeNumbers b/w 1 to 100
+
+
 class AllPrime{
     public static void main (String[]args){
         for(int no=1;no<=100;no++){

@@ -1,3 +1,5 @@
+//WAP to check a number is prime  or not
+
 class PrimeNumber{
     public static void main (String[]args){
         int no=7;
