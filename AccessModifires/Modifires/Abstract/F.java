@@ -8,7 +8,7 @@ class Test extends F{
     System.out.println("hell");
      }
    public static void main(String[] args){
-       F obj=new Test();
+       Test obj=new Test();
     obj.m3();
 }
 }
